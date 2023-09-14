@@ -1,0 +1,90 @@
+Rank,City,,,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index
+1,Honolulu,HI,United States,106.3,69.6,88.5,136.8,79,80.7
+2,Washington,DC,United States,100.4,71.5,86.3,103,94.9,106.6
+3,New York,NY,United States,100,100,100,100,100,100
+4,Barrie,Canada,,99.7,29.3,65.5,104.7,78.3,92.8
+5,Halifax,Canada,,99.3,39.1,70.1,122.1,76.2,95.4
+6,Anchorage,AK,United States,99,44.6,72.5,106.4,85.1,165.8
+7,Vancouver,Canada,,98.1,51.4,75.4,109.3,84.2,91.5
+8,Calgary,Canada,,96.7,44.2,71.2,102.1,90.1,118.8
+9,Regina,Canada,,94.1,32.7,64.3,108.2,79.7,94.6
+10,San Francisco,CA,United States,93.7,95,94.3,109.2,87.2,103.9
+11,St. John's,Newfoundland and Labrador,Canada,93.6,31.7,63.5,108.8,88.6,82.2
+12,Brampton,Canada,,93.2,35.3,65.1,92.4,84.1,86.9
+13,Roanoke,VA,United States,93.2,25.4,60.2,110.3,72,126.9
+14,Boston,MA,United States,92.9,70.1,81.9,100.4,83.9,115.6
+15,Edmonton,Canada,,92.7,39.2,66.7,94.4,82,102.1
+16,Richmond,VA,United States,92,35.2,64.4,101.7,82,135.7
+17,Seattle,WA,United States,91.6,55.1,73.9,100.4,81.7,115.3
+18,Nanaimo,BC,Canada,91.1,30.6,61.7,90.9,84.1,38.2
+19,Sacramento,CA,United States,91.1,35.8,64.2,101.3,71,128.2
+20,Hartford,CT,United States,90.7,39.9,66,108,78.3,127.5
+21,Philadelphia,PA,United States,90.1,49.7,70.5,104.5,76.2,122.6
+22,Saskatoon,Canada,,90,29.8,60.8,95.5,72.3,87.1
+23,Fredericton,Canada,,89.6,24.3,57.9,111.4,68.3,100.1
+24,Quebec City,Canada,,89.4,23.4,57.4,98.9,77.1,105.2
+25,Toronto,Canada,,89.2,50.9,70.6,91.3,76.6,101.7
+26,Minneapolis,MN,United States,89.2,40.7,65.6,97.7,73.9,114.6
+27,Saint Petersburg,FL,United States,88.7,37.8,64,100.5,64.7,84.6
+28,Surrey,Canada,,88.6,31.6,60.9,102.1,72.2,77.5
+29,Mississauga,Canada,,88.4,42,65.9,89.7,75.3,98.9
+30,Abbotsford,Canada,,88.3,25.8,57.9,97,80.1,116.7
+31,Lethbridge,AB,Canada,88.2,32.3,61.1,80,97.6,38.7
+32,Red Deer,Canada,,88.1,33.1,61.4,92.4,76.1,135.5
+33,San Jose,CA,United States,87.4,72.1,80,96.1,76.2,129.9
+34,Victoria,Canada,,87.3,35,61.9,99.1,72.1,99.4
+35,Waterloo,Canada,,87.1,27.7,58.3,100.1,68.6,92.1
+36,Cleveland,OH,United States,87.1,30.8,59.7,94.3,71.1,117.9
+37,Madison,WI,United States,86.7,37.7,62.9,103.7,69.8,118.4
+38,Houston,TX,United States,86.5,51,69.2,84.3,75.1,120.6
+39,Ottawa,Canada,,86.1,36.2,61.9,92.3,79.8,131.9
+40,Hamilton,Canada,,85.8,27,57.2,87.2,68.3,97.5
+41,Santa Barbara,CA,United States,85.7,56.1,71.3,98.3,79.9,102.2
+42,London,Canada,,85.3,29.8,58.3,88.2,79.3,87.1
+43,Austin,TX,United States,84.9,44.7,65.4,95,69.6,116.5
+44,Winnipeg,Canada,,84.1,29.9,57.7,90.2,77,77.4
+45,Montreal,Canada,,83.3,29.2,57,93.1,75.9,100.2
+46,Miami,FL,United States,82.8,58.1,70.8,90.3,77.1,111.2
+47,Kitchener,Canada,,82.5,29.2,56.6,96.7,70,139.5
+48,Denver,CO,United States,82.1,44.1,63.6,92.1,69.1,134
+49,Buffalo,NY,United States,81.4,28.8,55.8,93.2,64.4,125.4
+50,Reno,NV,United States,81.2,28.4,55.5,104.7,58.5,97.5
+51,Chicago,IL,United States,81,55.3,68.5,84.3,74.2,117.3
+52,Kelowna,Canada,,80.8,32.5,57.3,90.2,70.5,91
+53,Raleigh,NC,United States,80.6,36.6,59.2,89,70.7,119.4
+54,Detroit,MI,United States,80.3,27.7,54.7,86.2,63.1,131.8
+55,Springfield,MO,United States,79.9,17.7,49.7,89.9,62.7,104.1
+56,New Orleans,LA,United States,79.4,41.6,61,87.7,68,113.2
+57,Oakland,CA,United States,79.2,63.9,71.8,85.7,77,136.6
+58,Columbus,OH,United States,78.6,30.6,55.3,89.2,68.1,112.3
+59,Spokane,WA,United States,78.5,23.2,51.6,89.2,64.4,120.9
+60,Knoxville,TN,United States,78.2,31.5,55.5,84.8,61.3,113.3
+61,Irvine,CA,United States,78.1,60.9,69.7,75.6,76.2,167.8
+62,Baltimore,MD,United States,78,41.6,60.3,81.3,67.3,139.1
+63,Windsor,Canada,,77.9,28.4,53.8,83.6,61.8,129.6
+64,Dallas,TX,United States,77.6,42.9,60.7,75.8,68.2,141.2
+65,San Diego,CA,United States,77.5,52.6,65.4,79.2,73.6,141.6
+66,Orlando,FL,United States,77.2,36.8,57.6,87,63.8,115.3
+67,Las Vegas,NV,United States,76.7,26.4,52.3,76.2,72.9,149.2
+68,Fort Lauderdale,FL,United States,76.6,41.4,59.5,76.6,67.3,97.2
+69,Tampa,FL,United States,76.2,33.5,55.4,79.5,70.5,139
+70,Pittsburgh,PA,United States,75.1,34.5,55.4,72.7,68.5,121.6
+71,Rochester,NY,United States,73.6,30,52.4,85.5,65.2,85.3
+72,Portland,OR,United States,73.5,38.4,56.5,73.3,66.7,113.3
+73,Indianapolis,IN,United States,73.2,27.6,51,74.2,70.9,146.9
+74,Wichita,KS,United States,73.1,20.4,47.5,78.9,62.9,109
+75,Kansas City,MO,United States,72.5,26.3,50,78.5,68.9,154.1
+76,Salt Lake City,UT,United States,72,29.9,51.6,71.9,62.8,139.9
+77,Phoenix,AZ,United States,71.6,29.7,51.2,73.7,64,143.8
+78,Oklahoma City,OK,United States,71.6,26.4,49.6,82.7,57.7,132.2
+79,Nashville,TN,United States,71.4,36.7,54.5,74.8,62.8,159.1
+80,San Antonio,TX,United States,71.2,34,53.1,72.7,65,132.1
+81,Birmingham,AL,United States,71.2,36.4,54.3,75.7,64.1,170.4
+82,Los Angeles,CA,United States,70.5,55.2,63.1,66.4,74.1,128.3
+83,Akron,OH,United States,70.4,22.7,47.2,74.8,58.9,158.1
+84,Des Moines,IA,United States,70,26.8,49,76,57.2,150.8
+85,Tulsa,OK,United States,69.9,32,51.5,72.2,64.6,100.5
+86,Omaha,NE,United States,69.5,29.1,49.8,73.3,73,141.9
+87,Fort Worth,TX,United States,69.3,29.7,50.1,67.4,63.9,230.1
+88,Boise,ID,United States,68.3,25,47.3,62.5,67.7,104.5
+89,Milwaukee,WI,United States,67.8,29.9,49.4,69.4,67.1,126.1
